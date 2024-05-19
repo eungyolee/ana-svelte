@@ -27,7 +27,7 @@
     </h2>
     <h3 class="hashtags">
       { #each hashtags as value }
-        <div class="hashtag">{value}</div> 
+        <div class="hashtag">#{value}</div> 
       { /each }
     </h3>
   </div>
